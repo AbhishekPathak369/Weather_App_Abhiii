@@ -64,7 +64,7 @@ const Temp = () => {
       {/* Footer */}
       <footer className="footer">
         <p>
-          <span className="rgb-text"> Developed by Abhishek Pathaak</span>
+          <span className="rgb-text"> Developed by Abhishek Pathak</span>
         </p>
         <a
           href="https://www.linkedin.com/in/abhishek-pathaak/"
