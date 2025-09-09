@@ -3,7 +3,7 @@ import Weathercard from "./Weathercard_2";
 import "./style.css";
 
 const Temp = () => {
-  const [searchValue, setSearchValue] = useState("pune");
+  const [searchValue, setSearchValue] = useState("ghaziabad");
   const [tempInfo, setTempInfo] = useState({});
 
   // ✅ Wrap in useCallback so function identity doesn't change every render
