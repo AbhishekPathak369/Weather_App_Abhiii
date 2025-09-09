@@ -67,7 +67,7 @@ const Temp = () => {
           <span className="rgb-text"> Developed by Abhishek Pathak</span>
         </p>
         <a
-          href="https://www.linkedin.com/in/abhishek-pathaak/"
+          href="https://www.linkedin.com/in/abhishek-pathak-10a00b273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           target="_blank"
           rel="noopener noreferrer"
           className="linkedin-btn"
