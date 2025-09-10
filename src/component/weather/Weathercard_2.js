@@ -27,6 +27,10 @@ const Weathercard = ({
         case "Mist":
           setWeatheState("wi-dust");
           break;
+        case "Rain":
+          setWeatheState("wi-rain");
+          break;
+
         default:
           setWeatheState("wi-day-sunny");
           break;
